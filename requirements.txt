@@ -1,0 +1,2 @@
+jira==3.5.2
+notion-client==2.0.0
